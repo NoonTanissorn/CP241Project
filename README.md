@@ -4,4 +4,4 @@
 
 ไฟล์ .jar เป็นไฟล์ที่สามารถรันได้เลย โดยที่เครื่อง ต้องมีการติดตั้ง Java ไว้ก่อน
 
-หรือสามารถนำ Source Code ที่เป็ Folder TournamentTreeProject ไปเปิดใน IDE ต่าง ๆ ได้เลย
+หรือสามารถนำ Source Code ที่เป็น Folder TournamentTreeProject ไปเปิดใน IDE ต่าง ๆ ได้เลย
